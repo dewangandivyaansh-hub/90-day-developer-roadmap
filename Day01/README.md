@@ -1,4 +1,4 @@
-# Day 1 - Calculator Website
+# Day 1 - Calculator Website 
 
 Today I started the 90-day advanced roadmap by building a calculator website.
 
