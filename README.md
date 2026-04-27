@@ -1,2 +1,8 @@
-# 90-day-developer-roadmap
-My 90-day journey covering web development, React, Python, and machine learning projects.
+# 90-Day Developer Roadmap
+
+This repository documents my 90-day journey covering:
+- Web Development
+- React
+- Python
+- Machine Learning
+- Internship Preparation
