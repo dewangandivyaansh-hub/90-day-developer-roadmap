@@ -1,4 +1,4 @@
-# Day 02 - Calculator Website V2
+# Day 02 - Calculator Website V2 
 
 Today I upgraded my calculator website with more realistic features.
 
