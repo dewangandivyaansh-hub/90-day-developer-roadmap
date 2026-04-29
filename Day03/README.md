@@ -1,4 +1,4 @@
-# Day 03 - Calculator Website V3
+# Day 03 - Calculator Website V3 
 
 Today I upgraded the calculator website with advanced features.
 
