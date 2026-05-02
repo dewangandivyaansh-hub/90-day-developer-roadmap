@@ -1,4 +1,4 @@
-# Day 6 - Weather App UI Upgrade
+# Day 6 - Weather App UI Upgrade 
 
 Today I improved my weather app with better UI and more weather details.
 
