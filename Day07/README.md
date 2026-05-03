@@ -1,4 +1,4 @@
-# Day 7 - Weather App Final Upgrade
+# Day 7 - Weather App Final Upgrade 
 
 Today I upgraded my weather app with advanced features and improved user experience.
 
