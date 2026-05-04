@@ -1,4 +1,4 @@
-# Day 08 - Quiz App (Basic)
+# Day 08 - Quiz App (Basic) 
 
 Today I started building a quiz application using JavaScript.
 
