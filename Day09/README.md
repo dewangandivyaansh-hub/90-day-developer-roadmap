@@ -1,4 +1,4 @@
-# Day 09 - Quiz App Upgrade
+# Day 09 - Quiz App Upgrade 
 
 Today I improved my quiz app with better user interaction and logic.
 
