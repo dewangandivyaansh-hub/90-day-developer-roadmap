@@ -1,4 +1,4 @@
-# Day 10 - Quiz App Final Version
+# Day 10 - Quiz App Final Version 
 
 Today I completed my quiz application with full functionality and improved user experience.
 
