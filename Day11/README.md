@@ -1,4 +1,4 @@
-# Day 11 - To-Do List App
+# Day 11 - To-Do List App 
 
 Today I started building a To-Do List application using JavaScript.
 
