@@ -1,4 +1,4 @@
-# Day 12 - To-Do App with Local Storage
+# Day 12 - To-Do App with Local Storage 
 
 Today I upgraded my To-Do List app with persistent storage and task completion features.
 
