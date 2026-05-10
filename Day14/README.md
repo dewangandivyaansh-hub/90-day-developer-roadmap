@@ -1,4 +1,4 @@
-# Day 14 - Calculator App
+# Day 14 - Calculator App 
 
 Today I started building a calculator application using JavaScript.
 
