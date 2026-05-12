@@ -1,4 +1,4 @@
-# Day 15 - Calculator App Upgrade
+# Day 15 - Calculator App Upgrade 
 
 Today I upgraded my calculator app with keyboard support and calculation history.
 
