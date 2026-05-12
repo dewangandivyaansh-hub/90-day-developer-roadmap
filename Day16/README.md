@@ -1,4 +1,4 @@
-# Day 16 - Movie Search App
+# Day 16 - Movie Search App 
 
 Today I started building a movie search application using the OMDb API.
 
