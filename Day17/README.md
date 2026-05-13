@@ -1,4 +1,4 @@
-# Day 17 - Movie Search App Upgrade
+# Day 17 - Movie Search App Upgrade 
 
 Today I upgraded my movie search application with detailed movie information and UI improvements.
 
