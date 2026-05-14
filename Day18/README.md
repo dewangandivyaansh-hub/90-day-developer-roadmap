@@ -1,4 +1,4 @@
-# Day 18 - Image Search App
+# Day 18 - Image Search App 
 
 Today I started building an image search application using the Unsplash API.
 
