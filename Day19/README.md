@@ -1,4 +1,4 @@
-# Day 19 - Image Search App Upgrade
+# Day 19 - Image Search App Upgrade 
 
 Today I upgraded my image search application with advanced gallery features and UI improvements.
 
