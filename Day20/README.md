@@ -1,4 +1,4 @@
-# Day 20 - Chat App UI Clone
+# Day 20 - Chat App UI Clone 
 
 Today I built a modern chat application UI using HTML, CSS, and JavaScript.
 
