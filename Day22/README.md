@@ -1,4 +1,4 @@
-# Day 22 - E-Commerce Product Page
+# Day 22 - E-Commerce Product Page 
 
 Today I built a responsive e-commerce product page using HTML, CSS, and JavaScript.
 
