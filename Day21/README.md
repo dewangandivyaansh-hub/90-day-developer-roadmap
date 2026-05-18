@@ -1,4 +1,4 @@
-# Day 21 - Chat App Upgrade
+# Day 21 - Chat App Upgrade 
 
 Today I upgraded my chat application with improved interaction and animations.
 
