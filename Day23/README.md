@@ -1,4 +1,4 @@
-# Day 23 - E-Commerce Store Upgrade
+# Day 23 - E-Commerce Store Upgrade 
 
 Today I upgraded my e-commerce project with a shopping cart system and dynamic cart interaction.
 
