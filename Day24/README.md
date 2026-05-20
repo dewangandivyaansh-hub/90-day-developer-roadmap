@@ -1,4 +1,4 @@
-# Day 24 - Music Player App
+# Day 24 - Music Player App 
 
 Today I built a modern music player application using HTML, CSS, and JavaScript.
 
