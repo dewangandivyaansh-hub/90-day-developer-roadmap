@@ -1,4 +1,4 @@
-# Day 25 - Music Player Upgrade
+# Day 25 - Music Player Upgrade 
 
 Today I upgraded my music player application with advanced media controls and playback interaction.
 
