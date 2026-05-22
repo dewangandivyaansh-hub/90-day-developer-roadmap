@@ -1,4 +1,4 @@
-# Day 26 - Event Planner App
+# Day 26 - Event Planner App 
 
 Today I built a calendar and event planner application using HTML, CSS, and JavaScript.
 
