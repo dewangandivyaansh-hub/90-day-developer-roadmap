@@ -1,4 +1,4 @@
-# Day 27 - Event Planner Upgrade
+# Day 27 - Event Planner Upgrade 
 
 Today I upgraded my event planner application with persistent storage, event categories, and search functionality.
 
