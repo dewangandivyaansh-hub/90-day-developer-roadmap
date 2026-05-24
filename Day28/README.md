@@ -1,4 +1,4 @@
-# Day 28 - Country Info App
+# Day 28 - Country Info App 
 
 Today I built a country information and travel application using HTML, CSS, and JavaScript.
 
