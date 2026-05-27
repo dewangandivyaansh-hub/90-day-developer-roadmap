@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+
+    font-family: Arial;
+
+    background: #f4f4f4;
+
+    color: #333;
+}
+
+/* 🌙 DARK MODE */
+
+.dark-mode {
+    background: #121212;
+    color: white;
+}
+
+.dark-mode .project-card,
+.dark-mode .skill-card,
+.dark-mode form {
+    background: #1e1e1e;
+    color: white;
+}
+
+/* THEME BUTTON */
+
+#themeBtn {
+    position: fixed;
+
+    top: 20px;
+    right: 20px;
+
+    padding: 10px;
+
+    border: none;
+
+    border-radius: 50%;
+
+    cursor: pointer;
+
+    font-size: 18px;
+}
+
+/* HERO */
+
+.hero {
+    text-align: center;
+
+    padding: 100px 20px;
+
+    background: #3498db;
+
+    color: white;
+}
+
+/* SECTIONS */
+
+section {
+    padding: 50px 20px;
+
+    text-align: center;
+}
+
+/* SKILLS */
+
+.skill-container {
+    display: flex;
+
+    justify-content: center;
+
+    flex-wrap: wrap;
+
+    gap: 15px;
+}
+
+.skill-card {
+    background: white;
+
+    padding: 15px 20px;
+
+    border-radius: 10px;
+
+    box-shadow: 0 0 10px lightgray;
+}
+
+/* PROJECTS */
+
+.project-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(auto-fit, minmax(250px, 1fr));
+
+    gap: 20px;
+
+    margin-top: 30px;
+}
+
+.project-card {
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 12px;
+
+    box-shadow: 0 0 10px lightgray;
+
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+}
+
+/* CONTACT */
+
+form {
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 12px;
+
+    width: 300px;
+
+    margin: auto;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 10px;
+
+    box-shadow: 0 0 10px lightgray;
+}
+
+input,
+textarea {
+    padding: 10px;
+
+    border-radius: 5px;
+
+    border: 1px solid lightgray;
+}
+
+button {
+    padding: 10px;
+
+    border: none;
+
+    background: #3498db;
+
+    color: white;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2980b9;
+}
