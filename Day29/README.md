@@ -1,4 +1,4 @@
-# Day 29 - Country Info App Upgrade
+# Day 29 - Country Info App Upgrade 
 
 Today I upgraded my country information app with dark mode, favorites, and persistent data storage.
 
