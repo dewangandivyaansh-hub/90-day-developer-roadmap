@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- 🌙 DARK MODE BUTTON -->
+
+    <button id="themeBtn" onclick="toggleTheme()">
+        🌙
+    </button>
+
+    <!-- HERO SECTION -->
+
+    <header class="hero">
+
+        <h1>Hi, I'm Divyaansh 👋</h1>
+
+        <p>
+            Frontend Developer | Python Learner | Future AI Engineer
+        </p>
+
+    </header>
+
+    <!-- SKILLS SECTION -->
+
+    <section class="skills">
+
+        <h2>🧠 Skills</h2>
+
+        <div class="skill-container">
+
+            <div class="skill-card">HTML</div>
+
+            <div class="skill-card">CSS</div>
+
+            <div class="skill-card">JavaScript</div>
+
+            <div class="skill-card">Python</div>
+
+            <div class="skill-card">Git & GitHub</div>
+
+            <div class="skill-card">Responsive Design</div>
+
+        </div>
+
+    </section>
+
+    <!-- PROJECTS SECTION -->
+
+    <section class="projects">
+
+        <h2>🚀 Projects</h2>
+
+        <div class="project-grid">
+
+            <div class="project-card">
+                <h3>🌦️ Weather App</h3>
+
+                <p>
+                    Weather application using OpenWeather API.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>🧠 Quiz App</h3>
+
+                <p>
+                    Interactive quiz application with score tracking.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>🎬 Movie Search App</h3>
+
+                <p>
+                    Movie search app using OMDb API.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>🛒 E-Commerce Store</h3>
+
+                <p>
+                    Shopping cart application with dynamic products.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>🎵 Music Player</h3>
+
+                <p>
+                    Interactive audio player with controls.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>📅 Event Planner</h3>
+
+                <p>
+                    Planner app with localStorage and categories.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- CONTACT SECTION -->
+
+    <section class="contact">
+
+        <h2>📞 Contact Me</h2>
+
+        <form onsubmit="sendMessage(event)">
+
+            <input type="text" placeholder="Your Name" required>
+
+            <input type="email" placeholder="Your Email" required>
+
+            <textarea placeholder="Your Message" required></textarea>
+
+            <button type="submit">
+                Send Message
+            </button>
+
+        </form>
+
+        <p id="response"></p>
+
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
