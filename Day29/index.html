@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Country Info App</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>🌍 Country Info App</h1>
+
+        <input type="text" id="countryInput" placeholder="Enter country name">
+
+        <button onclick="searchCountry()">
+            Search
+        </button>
+
+        <button id="darkModeBtn" onclick="toggleDarkMode()">
+            🌙 Dark Mode
+        </button>
+
+        <div id="countryContainer"></div>
+
+        <div id="favoritesContainer">
+
+            <h3>⭐ Favorite Countries</h3>
+
+            <ul id="favoritesList"></ul>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
