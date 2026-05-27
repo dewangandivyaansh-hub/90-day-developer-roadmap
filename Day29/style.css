@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+
+    font-family: Arial;
+
+    background: #f4f4f4;
+
+    padding: 20px;
+}
+
+.container {
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+
+    width: 250px;
+
+    border-radius: 5px;
+
+    border: 1px solid lightgray;
+}
+
+button {
+    padding: 10px 15px;
+
+    border: none;
+
+    background: #3498db;
+
+    color: white;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2980b9;
+}
+
+#countryContainer {
+    margin-top: 30px;
+
+    display: flex;
+
+    justify-content: center;
+}
+
+.country-card {
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 12px;
+
+    width: 320px;
+
+    box-shadow: 0 0 15px lightgray;
+}
+
+.country-card img {
+    width: 100%;
+
+    border-radius: 10px;
+
+    margin-bottom: 15px;
+}
+
+.country-card p {
+    margin: 8px 0;
+}
+
+#darkModeBtn {
+    margin-bottom: 20px;
+}
+
+.dark-mode {
+    background: #121212;
+    color: white;
+}
+
+.dark-mode .country-card {
+    background: #1e1e1e;
+    color: white;
+}
+
+.dark-mode input {
+    background: #333;
+    color: white;
+    border: 1px solid gray;
+}
+
+#favoritesContainer {
+    margin-top: 20px;
+}
+
+#favoritesList {
+    list-style: none;
+    padding: 0;
+}
+
+#favoritesList li {
+    margin: 5px 0;
+}
+
+.favorite-btn {
+    margin-top: 10px;
+
+    background: orange;
+}
+
+.favorite-btn:hover {
+    background: darkorange;
+}
