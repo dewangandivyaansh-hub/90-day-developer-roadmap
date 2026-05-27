@@ -4,20 +4,19 @@ Today I started learning React using Vite.
 
 ## Concepts Learned
 - React setup
-- Vite
 - JSX
 - Components
 - Import/export
-- React project structure
+- React structure
+- Hot reload
 
 ## Features Built
 - First React app
 - Header component
-- JSX rendering
-- Basic styling
+- Custom styling
 
 ## About
-This project marks the beginning of my React development journey and modern frontend development phase.
+This project marks the beginning of my React development journey.
 
 ## Date
 27 May 2026
