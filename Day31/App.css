@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+
+  font-family: Arial;
+
+  background: #121212;
+
+  color: white;
+
+  text-align: center;
+
+  padding-top: 100px;
+}
+
+h1 {
+  color: #61dafb;
+}
