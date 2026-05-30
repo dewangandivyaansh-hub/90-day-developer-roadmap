@@ -1,4 +1,4 @@
-# Day 32 - React Props and Components
+# Day 32 - React Props and Components 
 
 Today I learned reusable React components using props.
 
