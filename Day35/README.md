@@ -1,4 +1,4 @@
-# Day 35 - React To-Do App Part 2
+# Day 35 - React To-Do App Part 2 
 
 Today I upgraded my React To-Do application with task management features.
 
