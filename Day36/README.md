@@ -1,4 +1,4 @@
-# Day 36 - React Weather App Part 1
+# Day 36 - React Weather App Part 1 
 
 Today I built a Weather Application using React and OpenWeather API.
 
