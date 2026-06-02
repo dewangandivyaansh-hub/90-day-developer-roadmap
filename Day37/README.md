@@ -1,4 +1,4 @@
-# Day 37 - React Weather App Part 2
+# Day 37 - React Weather App Part 2 
 
 Today I upgraded my React Weather App with real-world application features.
 
