@@ -1,4 +1,4 @@
-# Day 39 - React Quiz App Part 2
+# Day 39 - React Quiz App Part 2 
 
 Today I enhanced my React Quiz Application with feedback and restart functionality.
 
