@@ -1,4 +1,4 @@
-# Day 41 - Advanced React Weather App Part 1
+# Day 41 - Advanced React Weather App Part 1 
 
 Today I improved my React Weather App by introducing reusable components.
 
