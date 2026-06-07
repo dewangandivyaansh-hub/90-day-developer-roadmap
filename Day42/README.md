@@ -1,4 +1,4 @@
-# Day 42 - Advanced React Weather App Part 2
+# Day 42 - Advanced React Weather App Part 2 
 
 Today I improved my React Weather App by adding search history functionality.
 
