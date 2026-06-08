@@ -1,4 +1,4 @@
-# Day 43 - Advanced React Weather App Part 3
+# Day 43 - Advanced React Weather App Part 3 
 
 Today I improved my React Weather App by storing search history in local storage.
 
