@@ -1,4 +1,4 @@
-# Day 44 - Advanced React Weather App Part 4
+# Day 44 - Advanced React Weather App Part 4 
 
 Today I improved the visual design of my React Weather App.
 
