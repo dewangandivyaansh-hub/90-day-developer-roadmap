@@ -1,4 +1,4 @@
-# Day 45 - Advanced React Weather App Final Polish
+# Day 45 - Advanced React Weather App Final Polish 
 
 Today I completed my React Weather App and added final portfolio-level improvements.
 
