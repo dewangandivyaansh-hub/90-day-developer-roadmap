@@ -1,4 +1,4 @@
-# Day 46 - React RPG Battle Game Part 1
+# Day 46 - React RPG Battle Game Part 1 
 
 Today I started building a React RPG Battle Game.
 
