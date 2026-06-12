@@ -1,4 +1,4 @@
-# Day 47 - React Hero Battle Arena Part 2
+# Day 47 - React Hero Battle Arena Part 2 
 
 Today I improved the React Hero Battle Arena by adding battle mechanics and winner detection.
 
