@@ -1,4 +1,4 @@
-# Day 48 - React Hero Battle Arena Part 3
+# Day 48 - React Hero Battle Arena Part 3 
 
 Today I upgraded the Hero Battle Arena with advanced combat features.
 
