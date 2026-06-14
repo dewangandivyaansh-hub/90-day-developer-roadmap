@@ -1,4 +1,4 @@
-# Day 49 - React Hero Battle Arena Part 4
+# Day 49 - React Hero Battle Arena Part 4 
 
 Today I upgraded the Hero Battle Arena with RPG-style character classes.
 
