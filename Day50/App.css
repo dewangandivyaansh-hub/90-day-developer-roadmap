@@ -1,0 +1,116 @@
+body {
+
+    margin: 0;
+
+    font-family: Arial, sans-serif;
+
+    background: #121212;
+
+    color: white;
+
+    text-align: center;
+
+}
+
+.battle-card {
+
+    width: 450px;
+
+    margin: 50px auto;
+
+    padding: 30px;
+
+    background: #1f1f1f;
+
+    border-radius: 15px;
+
+}
+
+button {
+
+    margin: 10px;
+
+    padding: 12px 20px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+}
+
+.battle-card {
+    padding: 20px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+progress {
+    width: 250px;
+    height: 20px;
+}
+
+.log-box {
+
+    margin-top: 20px;
+
+    padding: 15px;
+
+    background: #2a2a2a;
+
+    border-radius: 10px;
+
+    max-height: 200px;
+
+    overflow-y: auto;
+
+}
+
+.log-box p {
+
+    margin: 5px 0;
+
+}
+
+select {
+
+    padding: 10px;
+
+    margin-bottom: 20px;
+
+    border-radius: 8px;
+
+    font-size: 16px;
+
+}
+
+button {
+
+    margin: 10px;
+
+    padding: 12px 22px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+    transition: 0.3s;
+
+}
+
+button:hover {
+
+    transform: scale(1.05);
+
+}
