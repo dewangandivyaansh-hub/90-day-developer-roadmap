@@ -1,4 +1,4 @@
-# Day 50 - React Hero Battle Arena Final Polish
+# Day 50 - React Hero Battle Arena Final Polish 
 
 Today I completed the Hero Battle Arena project and polished it into a portfolio-ready React application.
 
