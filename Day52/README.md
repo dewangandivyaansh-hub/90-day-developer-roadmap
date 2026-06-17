@@ -1,4 +1,4 @@
-# Day 52 - Professional Portfolio Layout
+# Day 52 - Professional Portfolio Layout 
 
 Today I improved my React portfolio website by creating reusable components and a cleaner layout.
 
