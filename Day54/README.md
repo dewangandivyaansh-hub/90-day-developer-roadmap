@@ -1,4 +1,4 @@
-# Day 54 - Portfolio Skills and Project Cards
+# Day 54 - Portfolio Skills and Project Cards 
 
 Today I upgraded my portfolio website with a skills section and project cards.
 
