@@ -1,4 +1,4 @@
-# Day 57 - Vercel Deployment
+# Day 57 - Vercel Deployment 
 
 Today I deployed my React portfolio using Vercel.
 
