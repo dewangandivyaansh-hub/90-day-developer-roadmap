@@ -1,4 +1,4 @@
-# Day 60 - React Phase Completion
+# Day 60 - React Phase Completion 
 
 Today I completed the React phase of my 90-Day Developer Roadmap.
 
