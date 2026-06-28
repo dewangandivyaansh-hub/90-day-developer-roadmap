@@ -1,4 +1,4 @@
-# Day 63 - Python Expense Tracker Part 3
+# Day 63 - Python Expense Tracker Part 3 
 
 Today I converted my Expense Tracker into an Object-Oriented Python application.
 
