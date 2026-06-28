@@ -1,4 +1,4 @@
-# Day 62 - Python Expense Tracker Part 2
+# Day 62 - Python Expense Tracker Part 2 
 
 Today I enhanced my Expense Tracker by adding search and delete functionality.
 
