@@ -1,4 +1,4 @@
-# Day 61 - Python Expense Tracker Part 1
+# Day 61 - Python Expense Tracker Part 1 
 
 Today I started Phase 3 by revising Python fundamentals while building an Expense Tracker.
 
