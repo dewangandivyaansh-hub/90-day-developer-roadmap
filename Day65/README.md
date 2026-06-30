@@ -1,4 +1,4 @@
-# Day 65 - Expense Tracker using CSV
+# Day 65 - Expense Tracker using CSV 
 
 Today I upgraded my Expense Tracker by replacing JSON storage with CSV files.
 
