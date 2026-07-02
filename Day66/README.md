@@ -1,4 +1,4 @@
-# Day 66 - Introduction to NumPy
+# Day 66 - Introduction to NumPy 
 
 Today I started learning NumPy, the fundamental library for numerical computing in Python.
 
