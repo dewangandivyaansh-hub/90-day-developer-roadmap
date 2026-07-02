@@ -1,4 +1,4 @@
-# Day 67 - NumPy 2D Arrays
+# Day 67 - NumPy 2D Arrays 
 
 Today I learned how to work with two-dimensional NumPy arrays by building a Student Marks Analyzer.
 
