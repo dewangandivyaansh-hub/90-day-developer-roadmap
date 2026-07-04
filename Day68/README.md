@@ -1,4 +1,4 @@
-# Day 68 - Advanced NumPy Operations
+# Day 68 - Advanced NumPy Operations 
 
 Today I learned advanced NumPy operations by building a Student Score Analyzer.
 
