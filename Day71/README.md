@@ -1,4 +1,4 @@
-# Day 71 - Introduction to Matplotlib
+# Day 71 - Introduction to Matplotlib 
 
 Today I started learning Matplotlib by creating my first line chart.
 
