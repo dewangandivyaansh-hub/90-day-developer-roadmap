@@ -1,4 +1,4 @@
-# Day 72 - Matplotlib Bar Charts
+# Day 72 - Matplotlib Bar Charts 
 
 Today I learned how to create bar charts using Matplotlib.
 
