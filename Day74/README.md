@@ -1,4 +1,4 @@
-# Day 74 - Student Performance Dashboard
+# Day 74 - Student Performance Dashboard 
 
 Today I built a Student Performance Dashboard by combining multiple Matplotlib charts into a single visualization.
 
