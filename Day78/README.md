@@ -1,4 +1,4 @@
-# Day 78 - Linear Regression
+# Day 78 - Linear Regression 
 
 Today I trained my first Machine Learning model using Linear Regression from scikit-learn.
 
