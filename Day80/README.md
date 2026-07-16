@@ -1,4 +1,4 @@
-# Day 80 - Machine Learning Prediction Visualizer 
+# Day 80 - Machine Learning Prediction Visualizer  
 
 Today I completed my introductory Machine Learning phase by visualizing predictions from a Linear Regression model.
 
