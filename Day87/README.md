@@ -1,4 +1,4 @@
-# Day 87 - AI Student Performance Dashboard
+# Day 87 - AI Student Performance Dashboard 
 
 Today I improved my Student Management System by adding advanced record management features.
 
