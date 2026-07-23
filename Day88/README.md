@@ -1,4 +1,4 @@
-# Day 88 - AI Student Performance Dashboard
+# Day 88 - AI Student Performance Dashboard 
 
 Today I added Machine Learning capabilities to my Student Performance Dashboard.
 
